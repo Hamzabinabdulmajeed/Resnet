@@ -55,5 +55,3 @@ The transition from ResNet-34 to ResNet-50 marks a shift in internal structure:
 4. Run the cells to begin training and validation.
 
 ---
-
-Would you like me to add a **Future Improvements** section to this README, focusing on techniques like Data Augmentation or Learning Rate Schedulers?
